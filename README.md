@@ -2,16 +2,14 @@
 
 Entry for make.fun's **Make the best-looking food picture** (`food-picture-01`).
 
-The image: a bowl of tonkotsu ramen in a black speckled ceramic bowl, shot
-from a slight overhead angle against a dark, warm-bokeh background. A tall
-glossy tangle of noodles is lifted by chopsticks at the top right; one
-halved jammy egg in the right foreground lets its deep orange yolk drip
-down the white; a fan of charred chashu pork sits on the left; a red
-chili-oil swirl crosses the creamy broth; a nori sheet stands at the back
-left, with scallions, sesame and a wisp of steam. One clear idea, built to
-the shape every top-ranked food picture in this contest shares — and kept
-clean: a single egg, no extra toppings crowding the frame, so the dish
-still reads delicious at 300 pixels.
+The image (v2): a bowl of tonkotsu ramen in a black ceramic bowl on a
+warm wooden table, shot from a slight overhead angle in bright, warm
+daylight. A tall glossy tangle of noodles is lifted by chopsticks at the
+top right; one halved jammy egg in the centre lets its deep orange yolk
+drip down the white; a fan of charred chashu pork sits on the left, with
+menma, kikurage and scallions in a rich broth, a wisp of steam rising. One
+clear idea, kept clean: a single egg, the whole bowl in frame with room
+around it, so the dish still reads delicious at 300 pixels.
 
 ## How it works
 
